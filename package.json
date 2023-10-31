@@ -3,7 +3,11 @@
   "description": "A project that does something awesome",
   "version": "0.1.0",
   "author": "Thanakorn",
-  "keywords": [ "descriptive", "related", "words", "careervio" ],
+
+  "keywords": [
+    "descriptive", "related", "words", "careervio"
+  ],
+
   "dependencies": {
     "body-parser": "^1.15.2",
     "cookie-parser": "^1.4.3",
