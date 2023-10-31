@@ -1,5 +1,6 @@
 {
   "name": "fcc-learn-node-with-express",
+  "description": "A project that does something awesome",
   "version": "0.1.0",
   "author": "Thanakorn",
   "dependencies": {
